@@ -1,6 +1,7 @@
 # certificategenerator
 Generate e-certificates with an Word Document temple from Excel Sheet 
 
+Main Data Can't be displayed because of privacy 
 
 Excel file:
 
