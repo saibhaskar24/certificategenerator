@@ -7,6 +7,7 @@ Can generate certificates in seconds if u have a database.
 
 Manual generation can take hours.
 
+Edit `gen.py` on the bases of your requirement.
 
 Main Data Can't be displayed because of privacy 
 
