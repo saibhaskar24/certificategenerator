@@ -1,6 +1,13 @@
 # certificategenerator
 Generate e-certificates with an Word Document temple from Excel Sheet 
 
+This will reduce the time of editing each and every certificate with the help of python automata.
+
+Can generate certificates in seconds if u have a database.
+
+Manual generation can take hours.
+
+
 Main Data Can't be displayed because of privacy 
 
 Excel file:
