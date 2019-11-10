@@ -1,4 +1,4 @@
-# certificategenerator
+# Certificate Generator
 Generate e-certificates with an Word Document temple from Excel Sheet 
 
 This will reduce the time of editing each and every certificate with the help of python automata.
